@@ -83,6 +83,7 @@ You can deploy this project using:
 👤 Author1
 
 GitHub: https://github.com/AbenezerAssefa?tab=repositories
+
 LinkedIn: https://www.linkedin.com/in/abenezer-assefa-386b25193/
 
 ## 🔭 Future Features
