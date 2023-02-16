@@ -341,7 +341,7 @@ button:hover {
   margin-left: 12px;
 }
 
-.languages p {
+.languages li {
   width: 237px;
   height: 24px;
   left: 12px;
@@ -355,6 +355,7 @@ button:hover {
   display: flex;
   align-items: center;
   color: #000;
+  list-style: none;
 }
 
 .languages img {
@@ -398,7 +399,7 @@ button:hover {
   align-items: center;
 }
 
-.framework p {
+.framework li {
   left: 12px;
   right: 78px;
   top: calc(50% - 24px / 2);
@@ -409,6 +410,8 @@ button:hover {
   margin-right: auto;
   align-items: center;
   color: #000;
+  list-style: none;
+  
 }
 
 .skills {
@@ -417,7 +420,7 @@ button:hover {
   align-items: center;
 }
 
-.skills p {
+.skills li {
   left: 12px;
   right: 78px;
   top: calc(50% - 24px / 2);
@@ -428,6 +431,7 @@ button:hover {
   margin-right: auto;
   align-items: center;
   color: #000;
+  list-style: none;
 }
 
 .arrow-img {
