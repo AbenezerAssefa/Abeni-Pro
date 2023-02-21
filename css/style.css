@@ -463,7 +463,8 @@ button:hover {
   justify-content: center;
 }
 
-.form-min input, .form-min textarea {
+.form-min input,
+.form-min textarea {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -472,10 +473,6 @@ button:hover {
 }
 
 .form-des p {
-  width: 327px;
-  font-weight: 400;
-  font-size: 20px;
-  line-height: 28px;
   text-align: center;
   color: #ebebff;
   align-items: center;
@@ -483,30 +480,24 @@ button:hover {
   margin-right: auto;
   width: 327px;
   height: 102px;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins', serif;
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
   line-height: 28px;
-  text-align: center;
   margin-bottom: 80px;
 }
 
 .form-des h1 {
   text-align: center !important;
-  font-weight: 700;
-  font-size: 40px;
-  line-height: 52px;
-  text-align: center;
   color: #fff;
   margin-top: 103px;
-  font-family: 'Poppins';
+  font-family: 'Poppins', serif;
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
   line-height: 52px;
   align-items: center;
-  text-align: center;
 }
 
 form {
@@ -516,8 +507,8 @@ form {
   align-items: center;
 }
 
-form button { 
-  font-family: 'Poppins';
+form button:hover {
+  font-family: 'Poppins', serif;
   font-style: normal;
   font-weight: 500;
   font-size: 17px;
