@@ -269,7 +269,7 @@ form button {
   flex-direction: row;
   align-items: center;
   padding: 0 16px;
-  width: 140px;
+  width: fit-content;
   height: 48px;
   left: 24px;
   background: #fff;
@@ -463,25 +463,41 @@ button:hover {
   justify-content: center;
 }
 
-.form-des p {
-  width: 327px;
+.form-min input,
+.form-min textarea {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
   font-weight: 400;
-  font-size: 20px;
-  line-height: 28px;
+  font-size: 17px;
+  line-height: 20px;
+}
+
+.form-des p {
   text-align: center;
   color: #ebebff;
   align-items: center;
   margin-left: auto;
   margin-right: auto;
+  width: 327px;
+  height: 102px;
+  font-family: 'Poppins', serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  margin-bottom: 80px;
 }
 
 .form-des h1 {
+  text-align: center !important;
+  color: #fff;
+  margin-top: 103px;
+  font-family: 'Poppins', serif;
+  font-style: normal;
   font-weight: 700;
   font-size: 40px;
   line-height: 52px;
-  text-align: center;
-  color: #fff;
-  margin-top: 103px;
+  align-items: center;
 }
 
 form {
@@ -489,6 +505,14 @@ form {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+form button:hover {
+  font-family: 'Poppins', serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 24px;
 }
 
 #user-name,
