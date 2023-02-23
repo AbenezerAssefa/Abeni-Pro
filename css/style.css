@@ -1,3 +1,7 @@
+body {
+  overflow-x: hidden;
+}
+
 body html {
   background-color: #f4f5f7;
   font-family: 'Poppins', sans-serif;
@@ -5,7 +9,6 @@ body html {
   height: 100%;
   margin: 0;
   padding: 0;
-  overflow-x: hidden;
 }
 
 header {
@@ -15,6 +18,7 @@ header {
   display: flex;
   align-items: center;
   background-color: white;
+  font-family: 'Poppins', serif;
 }
 
 #logo {
@@ -448,6 +452,7 @@ button:hover {
   background-color: white;
   display: flex;
   flex-direction: column;
+  margin-right: -52px;
 }
 
 .form-min {
@@ -461,6 +466,8 @@ button:hover {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  margin-left: -10px;
+  margin-bottom: -10px;
 }
 
 .form-min input,
@@ -677,6 +684,10 @@ hr {
 
   .shape {
     display: none;
+  }
+
+  .nav-ul a {
+    color: #344563;
   }
 
   .nav-ul a:hover {
