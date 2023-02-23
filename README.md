@@ -1,106 +1,4 @@
-<a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
-<!-- TABLE OF CONTENTS -->
-
-# 📗 Table of Contents
-
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [📝 License](#license)
-
-<!-- PROJECT DESCRIPTION -->
-
-# 📖 Abeni-Pro <a name="about-project"></a>
-
-**Abeni-Pro** is a portfoilo website as a beginner Software Developer. Though it is yet a work-in-progress, it's built with high preference for responsiveness using modern technologies. It features my learning speed and upward scaling. It depicts my strengths, capabilities, as I grow in experience. I hope you will be kind enough to give opinions on how to make it better.
-
-## 🛠 Built With <a name="built-with"></a>
-
-I used the following technologies to ship this project:
-
-### Tech Stack <a name="tech-stack"></a>
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://html.com/">Html</a></li>
-    <li><a href="#">CSS</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Version Control</summary>
-  <ul>
-    <li><a href="#">Git</a></li>
-    <li><a href="#">GitHub</a></li>
-  </ul>
-</details>
-
-<!-- Features -->
-
-### Key Features <a name="key-features"></a>
-
-I find the following features to be intresting:
-
-- **Responsive Website for all screens**
-- **Css grid for the layout structuring**
-- **Flexbox for structuring instead of floats**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- Not avaliable yet
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
-
-## 💻 Getting Started <a name="getting-started"></a>
-
-To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
@@ -162,10 +60,6 @@ Example:
 
 <!-- AUTHORS -->
 
-## 👥 Author <a name="authors"></a>
-
-**Abenezer**
-
 - GitHub: [@AbenezerAssefa](https://github.com/AbenezerAssefa)
 - LinkedIn: [Abenezer](https://www.linkedin.com/in/abenezer-assefa-386b25193)
 
@@ -197,7 +91,6 @@ In the future, I shall be adding some dynamic loading effects to ensure a more s
 If you like this project, kindly consider giving it a ⭐️.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- ACKNOWLEDGEMENTS -->
 
