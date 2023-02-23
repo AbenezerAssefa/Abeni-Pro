@@ -5,7 +5,7 @@ body html {
   height: 100%;
   margin: 0;
   padding: 0;
-  overflow-x: hidden;
+  overflow-x: hidden!important;
 }
 
 header {
@@ -15,6 +15,7 @@ header {
   display: flex;
   align-items: center;
   background-color: white;
+  font-family: 'Poppins', serif;
 }
 
 #logo {
@@ -660,6 +661,10 @@ hr {
     transform: scale(1.5);
     color: #2230d2;
     cursor: pointer;
+  }
+
+   .nav-ul a {
+    color: #344563;
   }
 
   .form-min {
