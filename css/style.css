@@ -131,6 +131,7 @@ form li {
   padding: 4px 12px;
   margin-right: 8px;
   color: #6070ff;
+  float: left;
 }
 
 .languages li {
@@ -259,7 +260,6 @@ h2 {
 }
 
 .categories ul {
-  display: flex;
   list-style: none;
   padding-left: 0;
 }
@@ -290,10 +290,12 @@ button:hover {
 }
 
 .work-button {
+  clear: both;
+  margin-top: 16px;
   box-sizing: border-box;
   background-color: white;
-  align-items: center;
   padding: 12px;
+  float: left;
   width: 125px;
   height: 40px;
   left: 0;
@@ -352,7 +354,6 @@ button:hover {
 }
 
 .my-button {
-  display: flex;
   flex-direction: row;
   align-items: center;
   padding: 12px;
