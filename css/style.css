@@ -560,6 +560,10 @@ hr {
   flex: 0 0 100%;
 }
 
+section#portfolio img:hover {
+  scale: 1.1;
+}
+
 @media screen and (max-width: 768px) {
   .nav-ul a {
     display: none;
