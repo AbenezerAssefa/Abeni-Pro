@@ -162,9 +162,9 @@ Example:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="authors"></a>
 
-👤 **Abenezer**
+**Abenezer**
 
 - GitHub: [@AbenezerAssefa](https://github.com/AbenezerAssefa)
 - LinkedIn: [Abenezer](https://www.linkedin.com/in/abenezer-assefa-386b25193)
@@ -187,9 +187,6 @@ In the future, I shall be adding some dynamic loading effects to ensure a more s
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -200,6 +197,7 @@ Feel free to check the [issues page](../../issues/).
 If you like this project, kindly consider giving it a ⭐️.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- ACKNOWLEDGEMENTS -->
 
