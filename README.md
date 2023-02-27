@@ -67,6 +67,8 @@ I find the following features to be intresting:
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
+** Deployment ** https://abenezerassefa.github.io/Abeni-Pro/
+
 - Not avaliable yet
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
