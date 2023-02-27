@@ -65,7 +65,8 @@ I find the following features to be intresting:
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- Not avaliable yet
+https://abenezerassefa.github.io/Abeni-Pro/
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,7 +120,7 @@ Example command:
 
 ### Deployment
 
-** Deployment** https://abenezerassefa.github.io/Abeni-Pro/
+
 
 <!--
 Example:
