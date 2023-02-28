@@ -1,5 +1,3 @@
-
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -76,7 +74,6 @@ I find the following features to be intresting:
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-
 ### Prerequisites
 
 In order to run this project you need:
@@ -123,7 +120,7 @@ Example command:
 
 ### Deployment
 
-You can deploy this project using: https://abenezerassefa.github.io/Abeni-Pro/
+
 
 <!--
 Example:
