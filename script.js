@@ -8,7 +8,7 @@ const popModaldesk = document.querySelector('.buttondesk');
 const closeButton = document.querySelectorAll('.close-button');
 const Overlay = document.querySelector('.active');
 const workSection = document.querySelector('.work');
-
+const homeSection = document.querySelector('.home');
 const aboutsection = document.querySelector('.about-myself');
 const contactform = document.querySelector('.form-container');
 const headerpart = document.querySelector('header');
@@ -326,6 +326,7 @@ closeButton.forEach((x) => (
     popModal.classList.toggle('active');
     popModaldesk.classList.toggle('active');
     workSection.classList.toggle('active');
+    homeSection.classList.toggle('active');
     aboutsection.classList.toggle('active');
     contactform.classList.toggle('active');
     headerpart.classList.toggle('active');
@@ -340,6 +341,7 @@ popButton.forEach((x) => (
     Overlay.classList.toggle('active');
     popModaldesk.classList.toggle('active');
     workSection.classList.toggle('active');
+    homeSection.classList.toggle('active');
     aboutsection.classList.toggle('active');
     contactform.classList.toggle('active');
     headerpart.classList.toggle('active');
