@@ -139,7 +139,15 @@ Example:
 👤 **Abenezer**
 
 - GitHub: [@AbenezerAssefa](https://github.com/AbenezerAssefa)
-- LinkedIn: [Abenezer](https://www.linkedin.com/in/abenezer-assefa-386b25193)
+- LinkedIn: [Abenezer](https://www.linkedin.com/in/abenezer-assefa-386b25193)  
+
+Collaborators:  
+
+👤 **Dani Morillo**
+
+- GitHub: [@danifromecuador](https://github.com/danifromecuador)
+- Twitter: [@danifromecuador](https://twitter.com/danifromecuador)
+- LinkedIn: [danifromecuador](https://www.linkedin.com/in/danifromecuador/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
