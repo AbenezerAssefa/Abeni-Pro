@@ -1,6 +1,6 @@
 <!-- TABLE OF CONTENTS -->
 
-# 📗 Table of Contents
+# 📗 Table of Contentss
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
@@ -67,7 +67,6 @@ I find the following features to be intresting:
 
     Not Avalabile
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -110,7 +109,6 @@ To run the project, execute the following command:
 
 To run tests, run the following command: `npx eslint .`
 
-
 <!--
 Example command:
 
@@ -120,8 +118,8 @@ Example command:
 --->
 
 ### Deployment
-- GitHub pages 
 
+- GitHub pages
 
 <!--
 Example:
@@ -140,9 +138,9 @@ Example:
 👤 **Abenezer**
 
 - GitHub: [@AbenezerAssefa](https://github.com/AbenezerAssefa)
-- LinkedIn: [Abenezer](https://www.linkedin.com/in/abenezer-assefa-386b25193)  
+- LinkedIn: [Abenezer](https://www.linkedin.com/in/abenezer-assefa-386b25193)
 
-Collaborators:  
+Collaborators:
 
 👤 **Dani Morillo**
 
