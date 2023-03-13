@@ -597,8 +597,6 @@ hr {
   color: red;
 }
 
-
-
 @media screen and (max-width: 768px) {
   #home {
     background-image: url(../img/mobileversion.png);
@@ -657,7 +655,6 @@ hr {
   .nav-link1 > img {
     width: 1em;
   }
-
 
   .nav-link2 > img {
     width: 5em;
