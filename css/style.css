@@ -401,6 +401,8 @@ button:hover {
   background: none;
   height: 31px;
   padding-top: 16px;
+  font-size: 20px;
+  color: #67798e;
 }
 
 .languages-list {
