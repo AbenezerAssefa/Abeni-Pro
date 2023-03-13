@@ -108,7 +108,8 @@ To run the project, execute the following command:
 
 ### Run tests
 
-To run tests, run the following command:
+To run tests, run the following command: `npx eslint .`
+
 
 <!--
 Example command:
@@ -119,7 +120,7 @@ Example command:
 --->
 
 ### Deployment
-
+- GitHub pages 
 
 
 <!--
