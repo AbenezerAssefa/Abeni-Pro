@@ -679,14 +679,15 @@ hr {
 
   .buttonmob {
     position: fixed;
-    top: 49%;
+    top: 35%;
     left: 50%;
     transform: translate(-50%, -50%);
     width: 84%;
     border-radius: 5%;
-    height: 88%;
+    height: 55%;
     padding: 3%;
     display: none;
+    overflow: scroll;
   }
 
   .buttonmob.active {
