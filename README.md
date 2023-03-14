@@ -1,6 +1,6 @@
 <!-- TABLE OF CONTENTS -->
 
-# 📗 Table of Content's
+# 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
